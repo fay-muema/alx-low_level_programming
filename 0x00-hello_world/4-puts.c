@@ -1,8 +1,9 @@
-
 #include <stdio.h>
 #include <string.h>
-/*
- * first code in a shell
+/**
+ * main : Where the code starts
+ * description : prints the string
+ * return: returns 0
  */
 int main(void) {
 	puts("\"Programming is like building a multilingual puzzle\n");
