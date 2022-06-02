@@ -3,7 +3,7 @@
 /**
  * main : Where the code starts
  *
- * description : prints the string
+ * description : prints "Programming is like building a multilingual puzzle
  *
  * return: returns 0
  */
