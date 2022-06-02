@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * main : Where the code starts
+ * main - Where the code starts
  *
- * description : prints "Programming is like building a multilingual puzzle
+ * Description : prints Programming is like building a multilingual puzzle
  *
- * return: returns 0
+ * Return: returns 0
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
-	 return (0);
+	return (0);
 }
 
