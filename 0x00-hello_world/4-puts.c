@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /**
  * main : Where the code starts
  * description : prints the string
