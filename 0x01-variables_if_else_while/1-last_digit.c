@@ -34,7 +34,7 @@ int main(void)
 				printf("Last digit of %d is %d ", n, lastDigit);
 				if (n > 5)
 				{
-					printf("and is 0\n");
+					printf("and is greater than 5\n");
 				}
 				else if (n == 0)
 				{
