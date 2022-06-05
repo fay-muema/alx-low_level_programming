@@ -38,7 +38,7 @@ int main(void)
 				}
 				else if (n == 0)
 				{
-					printf("is zero\n");
+					printf("and is 0\n");
 				}
 				else
 				{
