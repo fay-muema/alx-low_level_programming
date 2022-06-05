@@ -34,11 +34,11 @@ int main(void)
 				printf("Last digit of %d is ", n);
 				if (n > 5)
 				{
-					printf("%d and is greater than 5\n", lastDigit);
+					printf("%d and is 00\n", lastDigit);
 				}
 				else if (n == 0)
 				{
-					printf("%d and is 0\n", lastDigit);
+					printf("%d and is greater than 5\n", lastDigit);
 				}
 				else
 				{
