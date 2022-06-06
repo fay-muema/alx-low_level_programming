@@ -19,10 +19,10 @@ int main(void)
 		int to_upper = toupper(ch);
 
 		putchar(ch);
-		
-		putchar('\n');
 
 		putchar(to_upper);
+
+		putchar('\n');
 
 	}
 
