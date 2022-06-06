@@ -13,17 +13,19 @@
 int main(void)
 {
 	int ch;
+	int up;
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		int to_upper = toupper(ch);
-
 		putchar(ch);
 
-		putchar(to_upper);
+	}
+
+	for (up = 'A'; up <= 'Z'; up++)
+	{
+		putchar(up);
 
 		putchar('\n');
-
 	}
 
 	return (0);
