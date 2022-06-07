@@ -1,22 +1,15 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - the code starts here
- *
- * Description - the main code goes here where the question is answered
- *
- * Return: always returns 0
+ * print_alphabet - prints alhabets in lower case
  */
-
-int main(void)
+void print_alphabet(void)
 {
-	int a;
+	char a;
 
 	for (a = 'a'; a <= 'z'; a++)
 	{
-		putchar(a);
+		_putchar(a);
 	}
-	putchar('\n');
-	return (0);
+	_putchar('\n');
 }
