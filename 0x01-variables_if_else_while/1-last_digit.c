@@ -21,7 +21,6 @@ int main(void)
 {
 
 		int n;
-		char str[] = "Last digit of";
 		int lastDigit;
 
 
