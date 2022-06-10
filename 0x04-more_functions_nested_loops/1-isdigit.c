@@ -1,0 +1,19 @@
+#include "main.h"
+
+/**
+ * _isdigit - checks if is a digit
+ * @c: initialized to c
+ * Return: returns 0
+ */
+
+int _isdigit(int c)
+{
+	if (c >= 0)
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
+}
