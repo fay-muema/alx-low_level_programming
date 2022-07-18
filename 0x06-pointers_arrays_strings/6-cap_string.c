@@ -7,7 +7,7 @@
  */
 
 
-char *cap_string(char *k)
+char *cap_string(char *)
 {
 	int cou;
 	int a;
