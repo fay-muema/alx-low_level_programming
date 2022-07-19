@@ -1,7 +1,8 @@
 #include "lists.h"
 /**
- * print_list - prints elements of linked lists\
- * @h: singly linked
+ * print_list - prints elements of linked lists.
+ *
+ * @h: singly linked list.
  * Return: returns all elements
  */
 
