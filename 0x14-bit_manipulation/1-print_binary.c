@@ -1,5 +1,6 @@
 #include "main.h"
-
+#include "_putchar.c"
+#include <unistd.h>
 /**
 * print_binary - prints the binary representation
 *
